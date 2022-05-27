@@ -1,3 +1,2 @@
 # 나만의 웹사이트 만들기
-
-![Untitled Diagram](https://user-images.githubusercontent.com/80560040/170620211-ebe270c0-ef44-4c0d-b232-76b751bd4baa.jpg)
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/80560040/170621568-98707587-f18e-499e-8249-0f322b05f5a2.jpg)
